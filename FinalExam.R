@@ -1,6 +1,6 @@
 
 rm(list=ls())
-setwd("~/Google Drive (nmilikic@nd.edu)/Spring 2020/ACMS 60855 Spatio-Temporal Statistics for Environmental Applications/Final")
+# setwd("~/Google Drive (nmilikic@nd.edu)/Spring 2020/ACMS 60855 Spatio-Temporal Statistics for Environmental Applications/Final")
 
 library(CARBayes)
 library(spdep)
