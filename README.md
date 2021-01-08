@@ -11,6 +11,6 @@ The project is contained in FinalExam.R, and can be run by simply executing this
 Running this code requires that the R packages CARBayes, spdep, and grid be installed.
 
 To run the source code, the following should be included in the same directory (included in this repository):
-- lipscotland.RData
+- `lipscotland.RData`
 
 This project was run using R version 4.0.3.
